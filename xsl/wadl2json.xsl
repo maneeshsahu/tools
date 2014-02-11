@@ -3,6 +3,7 @@
 	wadl2json.xsl
 	
 	An XSL style-sheet for converting WADLs to JSON.
+        Author: Maneesh Sahu <maneesh.sahu@me.com>
 -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
